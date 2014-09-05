@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Luis\Desktop\CircularImageView-master\app\build\intermediates\pre-dexed\debug\classes-f579a74af197c59b8237f28bd8fe8b615e2670c5.jar"
+        jar="C:\Users\Luis\Desktop\CircularImageView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Luis\Desktop\CircularImageView-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-1c684b3230eb0291c3cf3690d164856d02f0b3b4.jar"
+        jar="C:\Users\Luis\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.2\9e025bc5b84968e7d6ac765e660a70b3e5a87432\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432"/>
+    <item
+        dex="C:\Users\Luis\Desktop\CircularImageView-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e7e750a2a6859f78d6151fec2978c9bb28a6362a.jar"
+        jar="C:\Users\Luis\AppData\Local\Android\android-studio1\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
